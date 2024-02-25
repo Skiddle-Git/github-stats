@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #c6538c;width: 21.095%;" class="progress-item"></span><span style="background-color: #083fa1;width: 20.064%;" class="progress-item"></span><span style="background-color: #e34c26;width: 19.263%;" class="progress-item"></span><span style="background-color: #563d7c;width: 18.081%;" class="progress-item"></span><span style="background-color: #292929;width: 12.234%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 5.871%;" class="progress-item"></span><span style="background-color: #cb171e;width: 3.131%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.261%;" class="progress-item"></span>
+<span style="background-color: #c6538c;width: 21.090%;" class="progress-item"></span><span style="background-color: #083fa1;width: 20.058%;" class="progress-item"></span><span style="background-color: #e34c26;width: 19.258%;" class="progress-item"></span><span style="background-color: #563d7c;width: 18.077%;" class="progress-item"></span><span style="background-color: #292929;width: 12.256%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 5.870%;" class="progress-item"></span><span style="background-color: #cb171e;width: 3.130%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.261%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">SCSS</span>
-<span class="percent">21.10%</span>
+<span class="percent">21.09%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JSON</span>
-<span class="percent">12.23%</span>
+<span class="percent">12.26%</span>
 </li>
 
 
