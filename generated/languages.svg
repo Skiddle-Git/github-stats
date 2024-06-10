@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #083fa1;width: 26.279%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 16.890%;" class="progress-item"></span><span style="background-color: #e34c26;width: 13.279%;" class="progress-item"></span><span style="background-color: #292929;width: 13.196%;" class="progress-item"></span><span style="background-color: #c6538c;width: 12.534%;" class="progress-item"></span><span style="background-color: #563d7c;width: 10.743%;" class="progress-item"></span><span style="background-color: #cb171e;width: 2.973%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.376%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.729%;" class="progress-item"></span>
+<span style="background-color: #083fa1;width: 26.254%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 16.874%;" class="progress-item"></span><span style="background-color: #292929;width: 13.281%;" class="progress-item"></span><span style="background-color: #e34c26;width: 13.266%;" class="progress-item"></span><span style="background-color: #c6538c;width: 12.522%;" class="progress-item"></span><span style="background-color: #563d7c;width: 10.733%;" class="progress-item"></span><span style="background-color: #cb171e;width: 2.970%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.374%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.728%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Markdown</span>
-<span class="percent">26.28%</span>
+<span class="percent">26.25%</span>
 </li>
 
 
@@ -153,25 +153,25 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">16.89%</span>
+<span class="percent">16.87%</span>
 </li>
 
 
 <li style="animation-delay: 300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#292929;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">HTML</span>
+<span class="lang">JSON</span>
 <span class="percent">13.28%</span>
 </li>
 
 
 <li style="animation-delay: 450ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#292929;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">JSON</span>
-<span class="percent">13.20%</span>
+<span class="lang">HTML</span>
+<span class="percent">13.27%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">SCSS</span>
-<span class="percent">12.53%</span>
+<span class="percent">12.52%</span>
 </li>
 
 
@@ -189,7 +189,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CSS</span>
-<span class="percent">10.74%</span>
+<span class="percent">10.73%</span>
 </li>
 
 
@@ -207,7 +207,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Shell</span>
-<span class="percent">2.38%</span>
+<span class="percent">2.37%</span>
 </li>
 
 
