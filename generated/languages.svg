@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #083fa1;width: 22.833%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 18.373%;" class="progress-item"></span><span style="background-color: #e34c26;width: 14.445%;" class="progress-item"></span><span style="background-color: #c6538c;width: 13.634%;" class="progress-item"></span><span style="background-color: #563d7c;width: 11.686%;" class="progress-item"></span><span style="background-color: #292929;width: 11.659%;" class="progress-item"></span><span style="background-color: #cb171e;width: 2.902%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.586%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.881%;" class="progress-item"></span>
+<span style="background-color: #083fa1;width: 22.827%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 18.367%;" class="progress-item"></span><span style="background-color: #e34c26;width: 14.440%;" class="progress-item"></span><span style="background-color: #c6538c;width: 13.630%;" class="progress-item"></span><span style="background-color: #292929;width: 11.686%;" class="progress-item"></span><span style="background-color: #563d7c;width: 11.682%;" class="progress-item"></span><span style="background-color: #cb171e;width: 2.902%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.585%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.881%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -176,20 +176,20 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 600ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#292929;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">CSS</span>
+<span class="lang">JSON</span>
 <span class="percent">11.69%</span>
 </li>
 
 
 <li style="animation-delay: 750ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#292929;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">JSON</span>
-<span class="percent">11.66%</span>
+<span class="lang">CSS</span>
+<span class="percent">11.68%</span>
 </li>
 
 
