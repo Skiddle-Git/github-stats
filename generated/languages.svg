@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #083fa1;width: 18.420%;" class="progress-item"></span><span style="background-color: #3178c6;width: 16.449%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 15.370%;" class="progress-item"></span><span style="background-color: #292929;width: 11.695%;" class="progress-item"></span><span style="background-color: #e34c26;width: 11.662%;" class="progress-item"></span><span style="background-color: #c6538c;width: 11.007%;" class="progress-item"></span><span style="background-color: #663399;width: 9.435%;" class="progress-item"></span><span style="background-color: #cb171e;width: 2.355%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.088%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.519%;" class="progress-item"></span>
+<span style="background-color: #083fa1;width: 18.407%;" class="progress-item"></span><span style="background-color: #3178c6;width: 16.438%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 15.359%;" class="progress-item"></span><span style="background-color: #292929;width: 11.757%;" class="progress-item"></span><span style="background-color: #e34c26;width: 11.653%;" class="progress-item"></span><span style="background-color: #c6538c;width: 11.000%;" class="progress-item"></span><span style="background-color: #663399;width: 9.428%;" class="progress-item"></span><span style="background-color: #cb171e;width: 2.354%;" class="progress-item"></span><span style="background-color: #89e051;width: 2.086%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.518%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Markdown</span>
-<span class="percent">18.42%</span>
+<span class="percent">18.41%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">16.45%</span>
+<span class="percent">16.44%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">15.37%</span>
+<span class="percent">15.36%</span>
 </li>
 
 
@@ -171,7 +171,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JSON</span>
-<span class="percent">11.70%</span>
+<span class="percent">11.76%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">11.66%</span>
+<span class="percent">11.65%</span>
 </li>
 
 
@@ -189,7 +189,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">SCSS</span>
-<span class="percent">11.01%</span>
+<span class="percent">11.00%</span>
 </li>
 
 
@@ -207,7 +207,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">YAML</span>
-<span class="percent">2.36%</span>
+<span class="percent">2.35%</span>
 </li>
 
 
